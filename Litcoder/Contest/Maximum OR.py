@@ -24,7 +24,7 @@ def maximumOr(nums, k):
     return result
 
 # Example usage:
-nums = [12, 9]
-k = 2
+nums = list(map(int,input().split()))
+k = int(input())
 result =maximumOr(nums, k)
 print(result)
