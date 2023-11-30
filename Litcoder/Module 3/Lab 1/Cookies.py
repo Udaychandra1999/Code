@@ -10,4 +10,5 @@ def min_steps(target,candies):
 target_sweetness=int(input())
 candies=list(map(int,input().split()))
 
-result=min_step
+result=min_steps(target_sweetness,candies)
+print(result)
