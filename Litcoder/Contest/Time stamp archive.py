@@ -2,7 +2,7 @@ from collections import defaultdict
 import sys
 
 class TimeTravelersArchive:
-    def _init_(self):
+    def __init__(self):
         # Dictionary to store key-value pairs and their timestamps
         self.data = defaultdict(list)
 
