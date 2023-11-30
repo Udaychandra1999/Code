@@ -27,4 +27,3 @@ a  = input()
 b = input()
 result = can_transform(a,b)
 print(result)
-                                                                                                                            
