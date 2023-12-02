@@ -1,4 +1,4 @@
-Digital Assessement- 1:
+Digital Assessement - 1:
     1.Tower of hanoi: TowerofHanoi.c
     2.Singly linked list: Linkedlist.c
     3.Array:array.c
