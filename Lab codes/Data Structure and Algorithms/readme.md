@@ -1,8 +1,8 @@
 Digital Assessement - 1:
-    1.Tower of hanoi: TowerofHanoi.c
-    2.Singly linked list: Linkedlist.c
-    3.Array:array.c
-    4.Stack:stacks.c
-    5.Queue:queue.c
-    6.Circular Queue:cqueue.c
-    7.Doubly linked list:dlinkedlist.c 
+    1.Tower of hanoi: TowerofHanoi.c\n
+    2.Singly linked list: Linkedlist.c\n
+    3.Array:array.c\n
+    4.Stack:stacks.c\n
+    5.Queue:queue.c\n
+    6.Circular Queue:cqueue.c\n
+    7.Doubly linked list:dlinkedlist.c\n
