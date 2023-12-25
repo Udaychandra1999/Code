@@ -8,7 +8,6 @@
     6.Circular Queue:cqueue.c
     7.Doubly linked list:dlinkedlist.c
 
-=======================================================
 # Digital Assessment - 2
     1.Circular Queue:cqueue.c
     2.Polynomial addition:polyadd.c
@@ -17,3 +16,13 @@
     5.Postfix evaluation:posteval.cpp
     6.Insertion sort:insertionsort.c
     7.Merge Sort:mergesort.c
+
+# Digital Assessment - 3
+    1.Quicksort:quicksort.c
+    2.RadixSort:radix.py
+    3.Interpolation Sort:interpolation.c
+    4.Exponential Search:exponential.c
+    5.Binary search tree:bst.py
+    6.Threaded binary tree:threadedbinary.py
+    7.AVL tree:avl.py
+    8.Binary tree with order 3:btree.py
