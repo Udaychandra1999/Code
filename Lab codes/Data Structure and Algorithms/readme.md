@@ -13,7 +13,7 @@
     1.Circular Queue:cqueue.c
     2.Polynomial addition:polyadd.c
     3.CPU-FIFO scheduling:fifo.c
-    4.Infix to postfix
-    5.Postfix evaluation
-    6.Insertion sort
-    7.Merge Sort
+    4.Infix to postfix:infixtopost.c
+    5.Postfix evaluation:posteval.cpp
+    6.Insertion sort:insertionsort.c
+    7.Merge Sort:mergesort.c
