@@ -26,3 +26,9 @@
     6.Threaded binary tree:threadedbinary.py
     7.AVL tree:avl.py
     8.Binary tree with order 3:btree.py
+
+# Digital Assessment - 4
+    1.Dijikstra:dijkstra.py
+    2.Graph traversal:dfsbfs.py
+    3.Boruvka:boruvka.py
+    4.Max heap:maxheap.py
